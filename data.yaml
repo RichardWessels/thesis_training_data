@@ -1,7 +1,11 @@
 names:
-- chain
 - double_crochet
-nc: 2
+- single_crochet
+- chain
+- treble_crochet
+- half_double_crochet
+
+nc: 5
 
 test: ./test/images
 train: ./train/images
